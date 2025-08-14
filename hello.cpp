@@ -7,5 +7,5 @@ int main() {
     std::cout << "Hello World!";
     std::cout << "hello git!";
     return 0;
-}
+}:
 
